@@ -1,3 +1,5 @@
+> **Vercel + Neon fork.** This fork deploys the app to Vercel, runs the `/api/*` provider proxies as a Vercel Function and keeps a shared upstream cache in Neon Postgres. See [DEPLOY_VERCEL.md](DEPLOY_VERCEL.md). Everything below is the upstream README.
+
 <div align="center">
 
 # 🌐 God's Eye View
